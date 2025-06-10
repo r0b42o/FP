@@ -1,2 +1,2 @@
 # FP
-All Experiments of my thirdPhysics Praktica
+All Experiments of my third Physics Praktica
